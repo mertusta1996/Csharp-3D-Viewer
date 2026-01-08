@@ -1,6 +1,6 @@
 # Csharp-3D-Viewer
 
-A modern, lightweight 3D model viewer built with **C#**, **WinForms**, and **OpenTK (OpenGL)**. This application allows users to load, visualize, and interact with 3D models with high performance.
+A lightweight 3D model viewer built with **C#**, **WinForms**, and **OpenTK (OpenGL)**. This application allows users to load, visualize, and interact with 3D models.
 
 ![til](./Screenshots/Screenshot3.png)
 
@@ -56,7 +56,7 @@ A modern, lightweight 3D model viewer built with **C#**, **WinForms**, and **Ope
 
 **2. Open the Solution:** Open Csharp3DViewer.sln in Visual Studio.
 
-**3. Restore NuGet Packages:** Ensure OpenTK and OpenTK.GLControl are installed.
+**3. Restore NuGet Packages:** Ensure OpenTK, OpenTK.GLControl and Assimpnet are installed.
 
 **4. Run:** Press F5 to build and run the application.
 
@@ -68,7 +68,7 @@ A modern, lightweight 3D model viewer built with **C#**, **WinForms**, and **Ope
 
 * /Model: Represents the data state of the 3D application, including the 3D mesh data, scene, texture id, and transformation vectors.
 
-* /Common: Default directory for sample models and textures.
+* /Examples: Sample 3D models and textures.
 
 
 ## 🤝 Contributing
