@@ -2,6 +2,8 @@
 
 A modern, lightweight 3D model viewer built with **C#**, **WinForms**, and **OpenTK (OpenGL)**. This application allows users to load, visualize, and interact with 3D models with high performance.
 
+![til](./Screenshots/Screenshot3.png)
+
 ## 🚀  Features
 
 * **Multi-Format Support**: Load .obj, .fbx, and .stl files seamlessly.
@@ -42,8 +44,6 @@ A modern, lightweight 3D model viewer built with **C#**, **WinForms**, and **Ope
 ![til](./Screenshots/Screenshot1.png)
 
 ![til](./Screenshots/Screenshot2.png)
-
-![til](./Screenshots/Screenshot3.png)
 
 ![til](./Screenshots/Screenshot4.png)
 	
