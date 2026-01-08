@@ -39,7 +39,7 @@ A lightweight 3D model viewer built with **C#**, **WinForms**, and **OpenTK (Ope
 
 ![](./Screenshots/Gif1.gif)
 
-* There are some screenshots for 3D models in the "../Screenshots/" path.
+* There are some screenshots for 3D models in the "Examples" folder.
 
 ![til](./Screenshots/Screenshot1.png)
 
