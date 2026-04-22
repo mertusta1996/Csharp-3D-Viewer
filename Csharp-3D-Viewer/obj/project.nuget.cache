@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "liVSmXeFjv+rlUorkfSeYjgSM6JjsnYt0KqJbTvaHO7MCSXbi1sW20qmCF7ge8hFQtcwIFm15Ays6OEIeAjdfQ==",
+  "success": true,
+  "projectFilePath": "D:\\Unity Projects\\GitHub\\Csharp-3D-Viewer\\Csharp-3D-Viewer\\Csharp-3D-Viewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\assimpnet\\4.1.0\\assimpnet.4.1.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\opentk\\3.3.3\\opentk.3.3.3.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\opentk.glcontrol\\3.3.3\\opentk.glcontrol.3.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
